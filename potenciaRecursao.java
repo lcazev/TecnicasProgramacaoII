@@ -1,7 +1,7 @@
 package lista1;
 import java.util.Scanner;
 public class exercicio1a {
-	
+	//Calcular o valor de n^k para valores inteiros de n e k (usando recursao)
 	public static double potencia(int b, int e) {
 		if(e==0) 
 			return 1;
