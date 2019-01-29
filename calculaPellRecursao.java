@@ -15,7 +15,7 @@ public class exercicio1a {
 		Scanner entrada = new Scanner(System.in);
 		System.out.println("Qual o numero de Pell que deseja encontrar?");
 		int n = entrada.nextInt();
-		System.out.println("O "+n+"o  numero de Pell é " + calculaPell(n));
+		System.out.println("O "+n+"o  numero de Pell Ã© " + calculaPell(n));
 	}
 
 }
