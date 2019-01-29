@@ -1,7 +1,7 @@
 package lista1;
 import java.util.Scanner;
 public class exercicio1a {
-	
+	//Calcular a soma dos quadrados de todos os inteiros de 1 ate n (usando recursão)
 	public static double somaDeQuadrados(int n) {
 		if(n==0) 
 			return 0;
